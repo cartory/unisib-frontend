@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.3d96abdf.chunk.js",
-    "main.js.map": "/static/js/main.3d96abdf.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6a7d90a1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6a7d90a1.js.map",
-    "static/js/2.e3b3b338.chunk.js": "/static/js/2.e3b3b338.chunk.js",
-    "static/js/2.e3b3b338.chunk.js.map": "/static/js/2.e3b3b338.chunk.js.map",
-    "static/js/3.5491335e.chunk.js": "/static/js/3.5491335e.chunk.js",
-    "static/js/3.5491335e.chunk.js.map": "/static/js/3.5491335e.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.e3b3b338.chunk.js.LICENSE.txt": "/static/js/2.e3b3b338.chunk.js.LICENSE.txt",
-    "static/media/favicon.7ee6293e.ico": "/static/media/favicon.7ee6293e.ico"
+    "main.js": "/unisib-frontend/static/js/main.3d96abdf.chunk.js",
+    "main.js.map": "/unisib-frontend/static/js/main.3d96abdf.chunk.js.map",
+    "runtime-main.js": "/unisib-frontend/static/js/runtime-main.f4da6521.js",
+    "runtime-main.js.map": "/unisib-frontend/static/js/runtime-main.f4da6521.js.map",
+    "static/js/2.e3b3b338.chunk.js": "/unisib-frontend/static/js/2.e3b3b338.chunk.js",
+    "static/js/2.e3b3b338.chunk.js.map": "/unisib-frontend/static/js/2.e3b3b338.chunk.js.map",
+    "static/js/3.5491335e.chunk.js": "/unisib-frontend/static/js/3.5491335e.chunk.js",
+    "static/js/3.5491335e.chunk.js.map": "/unisib-frontend/static/js/3.5491335e.chunk.js.map",
+    "index.html": "/unisib-frontend/index.html",
+    "static/js/2.e3b3b338.chunk.js.LICENSE.txt": "/unisib-frontend/static/js/2.e3b3b338.chunk.js.LICENSE.txt",
+    "static/media/favicon.7ee6293e.ico": "/unisib-frontend/static/media/favicon.7ee6293e.ico"
   },
   "entrypoints": [
-    "static/js/runtime-main.6a7d90a1.js",
+    "static/js/runtime-main.f4da6521.js",
     "static/js/2.e3b3b338.chunk.js",
     "static/js/main.3d96abdf.chunk.js"
   ]
